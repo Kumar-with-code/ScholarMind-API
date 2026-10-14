@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.local
+
+# Virtual environments
+ewb/
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+students.db
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
